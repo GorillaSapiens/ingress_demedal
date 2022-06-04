@@ -7,7 +7,7 @@ for ($i = 0; $i <= $#ARGV; $i++) {
 
    $fname = $ARGV[$i];
    $n = int(rand(65536*32768));
-   $tmpname = "/tmp/hexup$n";
+   $tmpname = "/tmp/demedal$n";
 
    if (-e $fname) {
       @out = `file $fname`;
@@ -16,7 +16,7 @@ for ($i = 0; $i <= $#ARGV; $i++) {
          $line =~ s/([0-9]+) x ([0-9]+)/$w=$1,$h=$2/ge;
          if ($h != 0 && $w != 0) {
             print `convert $fname rgb:$tmpname`;
-            @blobs = `./hexup $w $h $tmpname`;
+            @blobs = `./demedal $w $h $tmpname`;
             foreach $blob (@blobs) {
                $blob =~ s/[\x0a\x0d]//g;
                ($x, $y, $w, $h, $f) = split / /, $blob;
