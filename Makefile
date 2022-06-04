@@ -1,2 +1,2 @@
-hexup: hexup.c
-	gcc hexup.c -o hexup
+demedal: demedal.c
+	gcc demedal.c -o demedal
