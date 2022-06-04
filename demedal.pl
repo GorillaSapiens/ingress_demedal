@@ -13,7 +13,8 @@ for ($i = 0; $i <= $#ARGV; $i++) {
       @out = `file $fname`;
       foreach $line (@out) {
          $h = $w = 0;
-         $line =~ s/([0-9]+) x ([0-9]+)/$w=$1,$h=$2/ge;
+         $line =~ s/([0-9]+) x ([0-9]+)/$w=$1,$h=$2/ge; # works for png
+         $line =~ s/, ([0-9]+)x([0-9]+),/$w=$1,$h=$2/ge; # works for jpg
          if ($h != 0 && $w != 0) {
             print `convert $fname rgb:$tmpname`;
             @blobs = `./demedal $w $h $tmpname`;
