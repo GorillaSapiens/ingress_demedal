@@ -1,6 +1,6 @@
 #!/usr/bin/env -S perl -w
 
-`mkdir -p output`;
+`rm -rf output ; mkdir -p output`;
 
 for ($i = 0; $i <= $#ARGV; $i++) {
    print "=== $ARGV[$i]\n";
@@ -24,8 +24,8 @@ for ($i = 0; $i <= $#ARGV; $i++) {
                $ar = $w/$h;
                if ($w > 100 && $h > 100 && $ar > .75 && $ar < 1.25) {
                   `convert -size $size -depth 8 RGB:output/$f output/$n-$y-$x.png`;
-                  `rm output/$f`;
                }
+               `rm output/$f`;
             }
          }
          else {

@@ -3,9 +3,9 @@
 #include <stdlib.h>
 
 #define COLOR(b,x,y) (\
-      (b[(y)*w*3+(x)*3] << 16) | \
-      (b[(y)*w*3+(x)*3+1] << 8) | \
-      (b[(y)*w*3+(x)*3+2]))
+      ((b[(y)*w*3+(x)*3] & 0xFC) << 16) | \
+      ((b[(y)*w*3+(x)*3+1] & 0xFC)  << 8) | \
+      ((b[(y)*w*3+(x)*3+2] & 0xFC)))
 
 #define BLOB(b,x,y) b[(y)*w+(x)]
 
