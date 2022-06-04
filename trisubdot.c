@@ -31,7 +31,7 @@ int main (int argc, char **argv) {
 
                int delta = sqrt(deltar*deltar+deltag*deltag+deltab*deltab);
 
-               if (delta < 256) {
+               if (delta < 64) {
                   sums[dx+1][dy+1]--;
                }
             }
