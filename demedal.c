@@ -165,6 +165,7 @@ deblob:
             for (int y = top; y <= bottom; y++) {
                for (int x = left; x <= right; x++) {
                   if (BLOB(blobmap,x,y) == us) {
+                     // important to get real color here
                      fwrite(image + (y*w*3+x*3), 1, 3, f);
                      BLOB(blobmap,x,y) = 0;
                   }
