@@ -1,2 +1,14 @@
+make
+
+# old way:
+./scrape_fev.pl > references.txt
+./fetch.pl
+
+# new way:
+go to https://dedo1911.xyz/Badges/
+scroll to bottom
+right click "save as.."
+copy all from th badges download directory to references
+
 ./demedal.pl tests/*
-./compare.pl
+./compare.pl | sort -n | ./output.pl > x.html
