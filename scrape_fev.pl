@@ -30,6 +30,8 @@ sub do_subpage($) {
       return;
    }
 
+   $title =~ s/<.*//g; # why fevgames so stupid?
+
    print "Bronze $title " . shift(@images) . "\n";
    print "Silver $title " . shift(@images) . "\n";
    print "Gold $title " . shift(@images) . "\n";
@@ -81,6 +83,7 @@ foreach $orig_line (@cont) {
       if ($lasthead =~ /^These medals are awarded for participation in special events/) {
          $lasthead = "";
       }
+      $lasthead =~ s/[()]//g;
    }
    elsif ($line =~ /^<li><strong><a title="/) {
       $tmp = $line;
