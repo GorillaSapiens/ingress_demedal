@@ -1,0 +1,2 @@
+./demedal.pl tests/*
+./compare.pl
