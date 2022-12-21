@@ -78,6 +78,9 @@ foreach $orig_line (@cont) {
          $tmp = "";
       }
       $lasthead = $tmp;
+      if ($lasthead =~ /^These medals are awarded for participation in special events/) {
+         $lasthead = "";
+      }
    }
    elsif ($line =~ /^<li><strong><a title="/) {
       $tmp = $line;
