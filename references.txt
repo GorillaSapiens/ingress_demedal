@@ -18,11 +18,11 @@ Silver Explorer https://fevgames.net/wp-content/uploads/2014/10/explorer2.png
 Gold Explorer https://fevgames.net/wp-content/uploads/2014/10/explorer3.png
 Platinum Explorer https://fevgames.net/wp-content/uploads/2014/10/explorer4-1.png
 Onyx Explorer https://fevgames.net/wp-content/uploads/2014/10/explorer5-1.png
-Bronze First Saturday</a https://fevgames.net/wp-content/uploads/2018/12/reg-portal.png
-Silver First Saturday</a https://fevgames.net/wp-content/uploads/2018/11/FS-Bronze-1024x1024.png
-Gold First Saturday</a https://fevgames.net/wp-content/uploads/2018/11/FS-Silver-1024x1024.png
-Platinum First Saturday</a https://fevgames.net/wp-content/uploads/2018/11/FS-Gold-1024x1024.png
-Onyx First Saturday</a https://fevgames.net/wp-content/uploads/2018/11/FS-Platinum.png
+Bronze First Saturday https://fevgames.net/wp-content/uploads/2018/12/reg-portal.png
+Silver First Saturday https://fevgames.net/wp-content/uploads/2018/11/FS-Bronze-1024x1024.png
+Gold First Saturday https://fevgames.net/wp-content/uploads/2018/11/FS-Silver-1024x1024.png
+Platinum First Saturday https://fevgames.net/wp-content/uploads/2018/11/FS-Gold-1024x1024.png
+Onyx First Saturday https://fevgames.net/wp-content/uploads/2018/11/FS-Platinum.png
 Bronze Hacker https://fevgames.net/wp-content/uploads/2014/10/hacker1.png
 Silver Hacker https://fevgames.net/wp-content/uploads/2014/10/hacker2.png
 Gold Hacker https://fevgames.net/wp-content/uploads/2014/10/hacker3.png
@@ -53,11 +53,11 @@ Silver Recharger https://fevgames.net/wp-content/uploads/2014/10/recharger2.png
 Gold Recharger https://fevgames.net/wp-content/uploads/2014/10/recharger3.png
 Platinum Recharger https://fevgames.net/wp-content/uploads/2014/10/recharger4-1.png
 Onyx Recharger https://fevgames.net/wp-content/uploads/2014/10/recharger5-1.png
-Bronze Recon</a https://fevgames.net/wp-content/uploads/2014/12/bronze_recon.png
-Silver Recon</a https://fevgames.net/wp-content/uploads/2017/07/silver_recon.png
-Gold Recon</a https://fevgames.net/wp-content/uploads/2014/12/gold_recon.png
-Platinum Recon</a https://fevgames.net/wp-content/uploads/2017/07/plat_recon.png
-Onyx Recon</a https://fevgames.net/wp-content/uploads/2014/12/black_recon.png
+Bronze Recon https://fevgames.net/wp-content/uploads/2014/12/bronze_recon.png
+Silver Recon https://fevgames.net/wp-content/uploads/2017/07/silver_recon.png
+Gold Recon https://fevgames.net/wp-content/uploads/2014/12/gold_recon.png
+Platinum Recon https://fevgames.net/wp-content/uploads/2017/07/plat_recon.png
+Onyx Recon https://fevgames.net/wp-content/uploads/2014/12/black_recon.png
 Bronze Sojourner https://fevgames.net/wp-content/uploads/2015/03/sojourner1.png
 Silver Sojourner https://fevgames.net/wp-content/uploads/2015/03/sojourner21.png
 Gold Sojourner https://fevgames.net/wp-content/uploads/2015/03/sojourner31.png
@@ -83,36 +83,36 @@ Silver Guardian https://fevgames.net/wp-content/uploads/2014/10/guardian2.png
 Gold Guardian https://fevgames.net/wp-content/uploads/2014/10/guardian3.png
 Platinum Guardian https://fevgames.net/wp-content/uploads/2014/10/guardian4-1.png
 Onyx Guardian https://fevgames.net/wp-content/uploads/2014/10/guardian5-1.png
-Bronze Innovator</a https://fevgames.net/wp-content/uploads/2014/11/innovator1.png
-Silver Innovator</a https://fevgames.net/wp-content/uploads/2014/11/innovator2.png
-Gold Innovator</a https://fevgames.net/wp-content/uploads/2014/11/innovator3.png
-Platinum Innovator</a https://fevgames.net/wp-content/uploads/2014/11/innovator4.png
-Onyx Innovator</a https://fevgames.net/wp-content/uploads/2014/11/innovator5.png
-Bronze Luminary</a https://fevgames.net/wp-content/uploads/2016/11/bronze.png
-Silver Luminary</a https://fevgames.net/wp-content/uploads/2016/11/silver.png
-Gold Luminary</a https://fevgames.net/wp-content/uploads/2016/11/gold.png
-Platinum Luminary</a https://fevgames.net/wp-content/uploads/2016/11/platinum.png
-Onyx Luminary</a https://fevgames.net/wp-content/uploads/2016/11/onyx.png
+Bronze Innovator https://fevgames.net/wp-content/uploads/2014/11/innovator1.png
+Silver Innovator https://fevgames.net/wp-content/uploads/2014/11/innovator2.png
+Gold Innovator https://fevgames.net/wp-content/uploads/2014/11/innovator3.png
+Platinum Innovator https://fevgames.net/wp-content/uploads/2014/11/innovator4.png
+Onyx Innovator https://fevgames.net/wp-content/uploads/2014/11/innovator5.png
+Bronze Luminary https://fevgames.net/wp-content/uploads/2016/11/bronze.png
+Silver Luminary https://fevgames.net/wp-content/uploads/2016/11/silver.png
+Gold Luminary https://fevgames.net/wp-content/uploads/2016/11/gold.png
+Platinum Luminary https://fevgames.net/wp-content/uploads/2016/11/platinum.png
+Onyx Luminary https://fevgames.net/wp-content/uploads/2016/11/onyx.png
 Bronze Recruiter https://fevgames.net/wp-content/uploads/2015/01/recruiter1.png
 Silver Recruiter https://fevgames.net/wp-content/uploads/2015/01/recruiter2.png
 Gold Recruiter https://fevgames.net/wp-content/uploads/2015/01/recruiter3.png
 Platinum Recruiter https://fevgames.net/wp-content/uploads/2015/01/recruiter4-1.png
 Onyx Recruiter https://fevgames.net/wp-content/uploads/2015/01/recruiter5-1.png
-Bronze Sage</a https://fevgames.net/wp-content/uploads/2017/10/sage1.png
-Silver Sage</a https://fevgames.net/wp-content/uploads/2017/10/sage2.png
-Gold Sage</a https://fevgames.net/wp-content/uploads/2017/10/sage3.png
-Platinum Sage</a https://fevgames.net/wp-content/uploads/2017/10/sage4.png
-Onyx Sage</a https://fevgames.net/wp-content/uploads/2017/10/sage5.png
-Bronze Seer</a https://fevgames.net/wp-content/uploads/2014/10/seer1.png
-Silver Seer</a https://fevgames.net/wp-content/uploads/2014/10/seer2.png
-Gold Seer</a https://fevgames.net/wp-content/uploads/2014/10/seer3.png
-Platinum Seer</a https://fevgames.net/wp-content/uploads/2014/10/seer4-1.png
-Onyx Seer</a https://fevgames.net/wp-content/uploads/2014/10/seer5-1.png
-Bronze Vanguard</a https://fevgames.net/wp-content/uploads/2015/12/t3.png
-Silver Vanguard</a https://fevgames.net/wp-content/uploads/2015/12/t9.png
-Gold Vanguard</a https://fevgames.net/wp-content/uploads/2015/12/t13.png
-Platinum Vanguard</a https://fevgames.net/wp-content/uploads/2015/12/t15.png
-Onyx Vanguard</a https://fevgames.net/wp-content/uploads/2015/12/t16.png
+Bronze Sage https://fevgames.net/wp-content/uploads/2017/10/sage1.png
+Silver Sage https://fevgames.net/wp-content/uploads/2017/10/sage2.png
+Gold Sage https://fevgames.net/wp-content/uploads/2017/10/sage3.png
+Platinum Sage https://fevgames.net/wp-content/uploads/2017/10/sage4.png
+Onyx Sage https://fevgames.net/wp-content/uploads/2017/10/sage5.png
+Bronze Seer https://fevgames.net/wp-content/uploads/2014/10/seer1.png
+Silver Seer https://fevgames.net/wp-content/uploads/2014/10/seer2.png
+Gold Seer https://fevgames.net/wp-content/uploads/2014/10/seer3.png
+Platinum Seer https://fevgames.net/wp-content/uploads/2014/10/seer4-1.png
+Onyx Seer https://fevgames.net/wp-content/uploads/2014/10/seer5-1.png
+Bronze Vanguard https://fevgames.net/wp-content/uploads/2015/12/t3.png
+Silver Vanguard https://fevgames.net/wp-content/uploads/2015/12/t9.png
+Gold Vanguard https://fevgames.net/wp-content/uploads/2015/12/t13.png
+Platinum Vanguard https://fevgames.net/wp-content/uploads/2015/12/t15.png
+Onyx Vanguard https://fevgames.net/wp-content/uploads/2015/12/t16.png
 Recursion https://fevgames.net/wp-content/uploads/2014/10/recursion.png
 Interitus https://fevgames.net/wp-content/uploads/2014/10/interitus.png
 Initio https://fevgames.net/wp-content/uploads/2014/10/initio.png
@@ -195,17 +195,17 @@ Classic Susanna Moyer https://fevgames.net/wp-content/uploads/2015/03/susan.png
 2018 Hank Johnson https://fevgames.net/wp-content/uploads/2018/10/hank_2018.png
 2018 Oliver Lynton-Wolfe https://fevgames.net/wp-content/uploads/2018/10/olw_2018.png
 2018 P.A. Chapeau https://fevgames.net/wp-content/uploads/2018/10/pachapeau_2018.png
-2018 (Prime) Carrie Campbell https://fevgames.net/wp-content/uploads/2018/10/campbell_2018.png
-2018 (Prime) Devra Bogdanovich https://fevgames.net/wp-content/uploads/2019/02/devra_2019.png
-2018 (Prime) Hank Johnson https://fevgames.net/wp-content/uploads/2018/10/hankjohnson_prime2018.png
-2018 (Prime) Jahan https://fevgames.net/wp-content/uploads/2019/02/jahan_2019.png
-2018 (Prime) Oliver Lynton-Wolfe https://fevgames.net/wp-content/uploads/2018/10/owl_2018b.png
-2018 (Prime) P. A. Chapeau https://fevgames.net/wp-content/uploads/2018/10/pachapeau_prime2018.png
-2018 (Prime) Roland Jarvis https://fevgames.net/wp-content/uploads/2018/10/jarvis_prime2018.png
-2018 (Prime) NL Prime https://fevgames.net/wp-content/uploads/2019/05/UniqueBadge_NLPrime.png
-2019 (Prime) Ezekiel Calvin https://fevgames.net/wp-content/uploads/2019/05/Character_EzekielCalvin_2019.png
-2019 (Prime) NL1331x https://fevgames.net/wp-content/uploads/2019/05/UniqueBadge_NL1331x.png
-2019 (Prime) Victoria Kureze https://fevgames.net/wp-content/uploads/2022/05/victoria-kureze-medal.webp
+2018 Prime Carrie Campbell https://fevgames.net/wp-content/uploads/2018/10/campbell_2018.png
+2018 Prime Devra Bogdanovich https://fevgames.net/wp-content/uploads/2019/02/devra_2019.png
+2018 Prime Hank Johnson https://fevgames.net/wp-content/uploads/2018/10/hankjohnson_prime2018.png
+2018 Prime Jahan https://fevgames.net/wp-content/uploads/2019/02/jahan_2019.png
+2018 Prime Oliver Lynton-Wolfe https://fevgames.net/wp-content/uploads/2018/10/owl_2018b.png
+2018 Prime P. A. Chapeau https://fevgames.net/wp-content/uploads/2018/10/pachapeau_prime2018.png
+2018 Prime Roland Jarvis https://fevgames.net/wp-content/uploads/2018/10/jarvis_prime2018.png
+2018 Prime NL Prime https://fevgames.net/wp-content/uploads/2019/05/UniqueBadge_NLPrime.png
+2019 Prime Ezekiel Calvin https://fevgames.net/wp-content/uploads/2019/05/Character_EzekielCalvin_2019.png
+2019 Prime NL1331x https://fevgames.net/wp-content/uploads/2019/05/UniqueBadge_NL1331x.png
+2019 Prime Victoria Kureze https://fevgames.net/wp-content/uploads/2022/05/victoria-kureze-medal.webp
 Limited Edition halloween2021 https://fevgames.net/wp-content/uploads/2022/01/halloween2021.png
 Limited Edition Hyperion https://fevgames.net/wp-content/uploads/2022/01/Hyperion.png
 Limited Edition resistance patch 2021 https://fevgames.net/wp-content/uploads/2022/01/resistance-patch-2021.png
@@ -222,5 +222,3 @@ Limited Edition lunar new year tiger new year https://fevgames.net/wp-content/up
 Founder https://fevgames.net/wp-content/uploads/2014/10/founder.png
 Simulacrum https://fevgames.net/wp-content/uploads/2018/11/spect.png
 Verified https://fevgames.net/wp-content/uploads/2014/10/verified.png
-#
-Limited Edition Comic Sans https://fevgames.net/wp-content/uploads/2022/03/medal-comicsans-joke-307x307-1-300x300.webp
