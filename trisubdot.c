@@ -25,13 +25,13 @@ int main (int argc, char **argv) {
             for (int dx = -1; dx < 2; dx++) {
                int ob = (y+dy) * 256 * 3 + (x+dx) * 3;
 
-               int deltar = abs((int)ad[oa+0]-(int)bd[ob+0]);
-               int deltag = abs((int)ad[oa+1]-(int)bd[ob+1]);
-               int deltab = abs((int)ad[oa+2]-(int)bd[ob+2]);
+               int deltar = abs((int)ad[oa+0]-(int)bd[ob+0]) >> 3;
+               int deltag = abs((int)ad[oa+1]-(int)bd[ob+1]) >> 3;
+               int deltab = abs((int)ad[oa+2]-(int)bd[ob+2]) >> 3;
 
                int delta = sqrt(deltar*deltar+deltag*deltag+deltab*deltab);
 
-               if (delta < 64) {
+               if (delta < 8) {
                   sums[dx+1][dy+1]--;
                }
             }
